@@ -21,7 +21,7 @@ Touropedia is a Python-based tourism guide application with a user-friendly GUI 
 
 3. **Run the Application:**
    ```bash
-   python your_script_name.py
+   main.py
    ```
 
 ## Usage
